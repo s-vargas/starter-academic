@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: About
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: ""
+active: true
 author: admin
 ---
+I am a current PhD student at the University of Maryland in the Government and Politics program. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida.
