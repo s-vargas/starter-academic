@@ -3,10 +3,7 @@ title: Sonia Vargas
 role: ""
 avatar_filename: 1.jpg
 bio: ""
-interests:
-  - Race
-  - Identity
-  - AmericanPolitics
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
