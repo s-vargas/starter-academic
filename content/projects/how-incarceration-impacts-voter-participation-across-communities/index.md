@@ -4,7 +4,7 @@ subtitle: "An Undergraduate Thesis "
 date: 2021-07-08T20:25:02.353Z
 draft: false
 featured: false
-external_link: uploads/Vargas_Sonia_Honors_Thesis
+external_link: projects/UGThesis
 image:
   filename: featured
   focal_point: Smart
