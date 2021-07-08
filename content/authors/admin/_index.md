@@ -1,9 +1,9 @@
 ---
 title: Sonia Vargas
-role: ""
+role: PhD Student
 avatar_filename: avatar.jpg.jpg
 bio: ""
-interests: [Race and Identity, American Politics, Data Science, Crochet]
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,6 +31,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a current PhD student at the University of Maryland in the Government and Politics program. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida.
+Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
