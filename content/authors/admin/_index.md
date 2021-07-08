@@ -1,7 +1,7 @@
 ---
 title: Sonia Vargas
 role: ""
-avatar_filename: 1.jpg
+avatar_filename: avatar.jpg.jpg
 bio: ""
 interests: []
 social:
