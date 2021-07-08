@@ -27,7 +27,7 @@ education:
     - course: BA in Anthropology
       institution: University of Florida
       year: 2021
-email: ""
+email: "svargas@umd.edu"
 superuser: true
 highlight_name: false
 ---
