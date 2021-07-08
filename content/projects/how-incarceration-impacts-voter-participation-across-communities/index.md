@@ -1,5 +1,5 @@
 ---
-title: How Incarceration Impacts Voter Participation Across Communities
+title: "How Incarceration Impacts Voter Participation Across Communities"
 subtitle: "An Undergraduate Thesis "
 date: 2021-07-08T20:25:02.353Z
 draft: false
