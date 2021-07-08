@@ -5,7 +5,8 @@
 
 title: Sonia Vargas # Website name
 baseurl: 'soniavargas.net/' # Website URL
-copyright: '' # Footer text, e.g. 'Â© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
+
 ############################
 ## LANGUAGE
 ############################
