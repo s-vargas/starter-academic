@@ -2,7 +2,7 @@
 title: Sonia Vargas
 role: PhD Student
 avatar_filename: avatar.jpg.jpg
-bio: "Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida."
+bio: "Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States."
 interests: []
 social:
   - icon: envelope
@@ -31,6 +31,5 @@ email: "svargas@umd.edu"
 superuser: true
 highlight_name: false
 ---
-Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida.
-
-{{< icon name="download" pack="fas" >}} Mmy {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. 
+{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
