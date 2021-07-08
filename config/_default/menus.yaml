@@ -16,9 +16,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
- - name: Undergraduate Thesis
-    url: uploads/Vargas_Sonia_Honors_Thesis.pdf
-    weight: 70
+# - name: Undergraduate Thesis
+ #   url: uploads/Vargas_Sonia_Honors_Thesis.pdf
+  #  weight: 70
     
 
 
