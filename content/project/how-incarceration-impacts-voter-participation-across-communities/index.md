@@ -24,3 +24,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+{{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/Vargas_Sonia_Honors_Thesis.pdf" "newtab" >}} undergraduate thesis{{< /staticref >}}.
