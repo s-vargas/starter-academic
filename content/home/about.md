@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Authors
+widget_id: Authors -Sonia Vargas
 headless: true
 weight: 20
 title: ""
