@@ -33,4 +33,4 @@ highlight_name: false
 ---
 Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Mmy {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
