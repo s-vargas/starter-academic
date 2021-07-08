@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: 'about'
+    url: '#about'
     weight: 10
    - name: Projects
     url: 'projects'
@@ -13,10 +13,9 @@ main:
   - name: Posts
     url: 'posts'
     weight: 30
-
-# - name: Contact
-#   url: '#contact'
-#   weight: 60
+- name: Contact
+   url: '#contact'
+   weight: 60
 # - name: Undergraduate Thesis
  #   url: uploads/Vargas_Sonia_Honors_Thesis.pdf
   #  weight: 70
