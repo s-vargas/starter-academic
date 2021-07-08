@@ -3,7 +3,7 @@ title: Sonia Vargas
 role: ""
 avatar_filename: avatar.jpg.jpg
 bio: ""
-interests: []
+interests: [Race and Identity, American Politics, Data Science, Crochet]
 social:
   - icon: envelope
     icon_pack: fas
