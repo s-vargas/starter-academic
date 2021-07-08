@@ -2,7 +2,7 @@
 title: Sonia Vargas
 role: PhD Student
 avatar_filename: avatar.jpg.jpg
-bio: ""
+bio: "Raised in Jacksonville, Florida I've had an interest in race and diversity since adolescence. My research interests are race and identity politics in the United States. I received my Bachelor's degree in 2021 from the University of Florida."
 interests: []
 social:
   - icon: envelope
